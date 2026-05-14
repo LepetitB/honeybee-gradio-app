@@ -1,0 +1,5 @@
+{
+  "model_arch": "efficientnet_b0",
+  "model_file": "best_model.pth",
+  "img_size": 224
+}
